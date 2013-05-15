@@ -1,7 +1,7 @@
 alfred-add-to-busycal
 =====================
 
-Alfred Workflow to Add a New Event to [BusyCal](http://www.busymac.com/busycal/index.html).
+Alfred Workflow to Add a New Event or Todo to [BusyCal](http://www.busymac.com/busycal/index.html).
 
 Instructions
 ------------
