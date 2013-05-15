@@ -8,4 +8,4 @@ Instructions
 
 Use the keyword `busy` followed by a space and enter your event data. You can use natural language as if you'd use BusyCal's Quick Entry (⌥⌘N).
 
-![Scrrenshot](https://github.com/LeEnno/alfred-add-to-busycal/master/screenshot.png)
+![Scrrenshot](https://raw.github.com/LeEnno/alfred-add-to-busycal/master/screenshot.png)
